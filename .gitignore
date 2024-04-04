@@ -1,5 +1,0 @@
-access.log
-node_modules/
-/coverage/
-/db/*.sqlite3
-doc/**/*.txt
